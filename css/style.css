@@ -1,0 +1,20 @@
+
+
+#menu ul li {display:inline;
+
+
+}
+
+#menu ul{padding: 0;
+    }
+
+a{text-decoration: none;
+    color: black;
+}
+
+a:hover{text-decoration: underline;}
+li{list-style: none;
+}
+
+th{text-align: left;}
+
